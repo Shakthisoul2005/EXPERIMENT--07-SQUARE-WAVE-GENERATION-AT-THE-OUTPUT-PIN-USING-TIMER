@@ -267,11 +267,6 @@ TOTAL TIME = TON + TOFF
 FREQUENCY = 1/(TOTAL TIME) 
           =1/0.00006 
           = 16666.7
-DUTY CYCLE = TON /(TON+TOFF)
-           = 0.00003/0.00006
-           = 0.5
-      IN % =0.5*100 
-           = 50 %
 
 
 FOR PULSE AT 700
@@ -285,11 +280,7 @@ TOTAL TIME = TON + TOFF
            = 0.00006
 FREQUENCY = 1/(TOTAL TIME)
           = 16666.7
-DUTY CYCLE = TON /(TON+TOFF)
-           = 0.00004/0.00006
-           = 0.7
-      IN % =0.7*100 
-           = 70 %
+
 
 FOR PULSE AT 900
 
@@ -302,11 +293,7 @@ TOTAL TIME = TON + TOFF
            = 0.000055
 FREQUENCY = 1/(TOTAL TIME)
           = 18181.82
-DUTY CYCLE = TON /(TON+TOFF)
-           = 0.00005/0.000055
-           = 0.9
-      IN % =0.9*100 
-           = 90 %
+
 
 ```
 
